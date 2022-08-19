@@ -1,4 +1,4 @@
-//Andreii B. 12/08. Lista n1 exemplo numero 1. O coputador tava apresentando algumas falhas então fiz um basico pra testes
+//Alexandre C Peres
 
 #include <stdio.h>
 
